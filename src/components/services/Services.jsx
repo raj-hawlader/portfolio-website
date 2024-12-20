@@ -60,53 +60,41 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>MERN Stack Developer</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Expert in designing and developing full-stack applications using MongoDB, Express.js, React, and Node.js. From database architecture to dynamic user interfaces, I deliver robust, scalable solutions.
           </p>
-          <button>Go</button>
+          
         </motion.div>
         <motion.div
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Competitive Programmer</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Passionate about algorithmic problem-solving and optimizing code. I bring logical thinking and efficiency to the table, tackling complex challenges with precision and creativity.
           </p>
-          <button>Go</button>
+          
         </motion.div>
         <motion.div
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Front-End Architect</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Crafting seamless user experiences with React JS, Tailwind CSS, and responsive design principles. I specialize in building visually appealing, mobile-friendly interfaces that align with modern web standards.
           </p>
-          <button>Go</button>
+          
         </motion.div>
         <motion.div
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Web Development Consultant</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Transforming ideas into functional and attractive web applications. Leveraging Next.js and TypeScript, I focus on delivering responsive designs, smooth animations, and performance-optimized websites.
           </p>
-          <button>Go</button>
+          
         </motion.div>
       </motion.div>
     </motion.div>
